@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../other/Header";
 import AllTask from "../other/AllTask";
-import CreateTask from "../other/Createtask";
+import CreateTask from "../other/CreateTask";
 import Footer from "../other/Footer";
 
 export default function AdminDashboard(props) {
